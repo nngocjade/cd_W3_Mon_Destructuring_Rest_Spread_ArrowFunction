@@ -97,3 +97,4 @@ function getNestedElements() {
 
 console.log(getNestedElements());
 console.groupEnd();
+console.groupEnd();
